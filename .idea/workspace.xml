@@ -37,7 +37,16 @@
       <recent name="$PROJECT_DIR$/pkg/setting" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build blog">
+    <configuration name="go build blog" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gin-blog" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="blog" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build gin-blog" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gin-blog" />
       <working_directory value="$PROJECT_DIR$" />
@@ -49,6 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build blog" />
         <item itemvalue="Go Build.go build gin-blog" />
       </list>
     </recent_temporary>
