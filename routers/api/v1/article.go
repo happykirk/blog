@@ -7,6 +7,7 @@ import (
 	"github.com/happykirk/blog/pkg/util"
 	"github.com/unknwon/com"
 	"github.com/astaxie/beego/validation"
+	//"github.com/astaxie/beego"
 	"github.com/gin-gonic/gin"
 	"log"
 	"net/http"
