@@ -1,7 +1,7 @@
 package models
 
 import (
-	"blog/pkg/setting"
+	"github.com/happykirk/blog/pkg/setting"
 	"fmt"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"

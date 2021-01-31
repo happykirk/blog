@@ -1,8 +1,8 @@
 package routers
 
 import (
-	"blog/pkg/setting"
-	v1 "blog/routers/api/v1"
+	"github.com/happykirk/blog/pkg/setting"
+	v1 "github.com/happykirk/blog/routers/api/v1"
 	"github.com/gin-gonic/gin"
 )
 

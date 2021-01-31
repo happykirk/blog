@@ -1,8 +1,10 @@
 package main
 
 import (
-	"blog/pkg/setting"
-	"blog/routers"
+	//"blog/pkg/setting"
+	//"blog/routers"
+	"github.com/happykirk/blog/pkg/setting"
+	"github.com/happykirk/blog/routers"
 	"fmt"
 	"log"
 	"net/http"

@@ -1,12 +1,12 @@
 package v1
 
 import (
-	"blog/models"
-	"blog/pkg/e"
-	"blog/pkg/setting"
-	"blog/pkg/util"
-	"github.com/Unknwon/com"
-	"github.com/astaxie/beego/core/validation"
+	"github.com/happykirk/blog/models"
+	"github.com/happykirk/blog/pkg/e"
+	"github.com/happykirk/blog/pkg/setting"
+	"github.com/happykirk/blog/pkg/util"
+	"github.com/unknwon/com"
+	"github.com/astaxie/beego/validation"
 	"github.com/gin-gonic/gin"
 	"log"
 	"net/http"

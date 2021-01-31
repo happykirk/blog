@@ -1,8 +1,8 @@
 package util
 
 import (
-	"blog/pkg/setting"
-	"github.com/Unknwon/com"
+	"github.com/happykirk/blog/pkg/setting"
+	"github.com/unknwon/com"
 	"github.com/gin-gonic/gin"
 )
 
